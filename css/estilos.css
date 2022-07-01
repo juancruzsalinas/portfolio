@@ -181,6 +181,10 @@ input, textarea, .btn {
     
 }
 
+#proyectos img {
+    height: 210px;
+}
+
 /*/ sobre mi /*/ 
 
 .img-circle {
